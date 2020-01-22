@@ -6,5 +6,5 @@ https://www.zaproxy.org/download/
 
 # Installer
 ```bash
-curl -s
+curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/zap.sh | bash
 ```
