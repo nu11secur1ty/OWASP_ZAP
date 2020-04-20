@@ -10,5 +10,5 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/i
 ```
 - - - Usage:
 
-[https://www.youtube.com/watch?v=l2VFC7T_4L4]
+[https://www.youtube.com/watch?v=DBlGs130f8o]
 
