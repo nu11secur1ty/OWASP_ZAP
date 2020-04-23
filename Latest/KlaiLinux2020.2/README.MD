@@ -10,7 +10,7 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/K
 
 - - - Run:
 
-![]()
+![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/KlaiLinux2020.2/screen/Screenshot%20from%202020-04-23%2019-14-05.png)
 
 
 # uninstaller
