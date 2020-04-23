@@ -1,1 +1,4 @@
-sd
+# installer
+```
+curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2020.2/installer2020.sh | bash
+```
