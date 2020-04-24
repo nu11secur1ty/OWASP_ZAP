@@ -9,7 +9,7 @@ perl gadmrusna.pl
 
 - - - - - - - OnlineAGI:
 ```bash
-curl -s  
+curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/onlineAGI/gadmrusna.sh | bash
 ```
 - output in file:
 
