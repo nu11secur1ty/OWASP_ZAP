@@ -11,6 +11,7 @@ perl gadmrusna.pl
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/onlineAGI/gadmrusna_download.sh | bash
 ```
+
 - output in file:
 
 ```xml
