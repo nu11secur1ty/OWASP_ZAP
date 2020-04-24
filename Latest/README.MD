@@ -3,7 +3,7 @@
 [![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/wall/owasp_logo_milan.png)](https://www.youtube.com/watch?v=U6CrsooLpAg)
  
 
-- - - - - - - OnlineAGI downloader:
+- - - - - - - OnlineAGI downloader[OWASP-AGI Automation for Gathering Information-Kali Linux 2020.2]:
 
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/onlineAGI/gadmrusna_download.sh | bash
