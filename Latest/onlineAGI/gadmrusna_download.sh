@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-sudo rm -rf gadmrusna.pl
+sudo rm -rf *gadmrusna.pl*
 cd /home/
 sudo rm -rf *zapnu11secur1ty.xml*
     cd 
