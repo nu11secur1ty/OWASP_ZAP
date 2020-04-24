@@ -6,6 +6,11 @@
 ```bash
 perl gadmrusna.pl 
 ```
+
+- - - - - - - OnlineAGI:
+```bash
+curl -s  
+```
 - output in file:
 
 ```xml
