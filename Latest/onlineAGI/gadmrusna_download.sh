@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 sudo rm -rf gadmrusna.pl
+cd /home/
+  rm *zapnu11secur1ty.xml*
+    cd 
   sleep 3;
 sudo wget https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/onlineAGI/gadmrusna.pl
 echo "Please wait..."
