@@ -10,6 +10,7 @@ echo "Please wait..."
   echo -e "\e[31mAfter you get the automation AGI program\e[0m"
   echo -e "\e[31mPlease execute: perl gadmrusna.pl\e[0m"
   echo -e "\e[31mFollow the instruction =)\e[0m"
+  cd 
     cd /home/
       exec bash
 exit 0
