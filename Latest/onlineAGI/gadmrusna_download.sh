@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 # @nu11secur1ty
+cd /home/
 sudo rm -rf *gadmrusna.pl*
 sudo rm -rf *zapnu11secur1ty.xml*
   sleep 3;
