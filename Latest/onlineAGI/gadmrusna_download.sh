@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 # @nu11secur1ty
 rm -rf *gadmrusna.pl*
-  rm -rf /home/*zapnu11secur1ty.xml*
+  sudo rm -rf /home/*zapnu11secur1ty.xml*
   sleep 3;
 cd 
 sudo wget https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/onlineAGI/gadmrusna.pl
