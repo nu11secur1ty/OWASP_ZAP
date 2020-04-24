@@ -11,4 +11,5 @@ echo "Please wait..."
   echo -e "\e[31mPlease execute: perl gadmrusna.pl\e[0m"
   echo -e "\e[31mFollow the instruction =)\e[0m"
     cd /home/
+      exec bash
 exit 0
