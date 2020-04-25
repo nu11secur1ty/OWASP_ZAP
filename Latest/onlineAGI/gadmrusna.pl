@@ -15,6 +15,7 @@ my $zapnu11secur1ty_killer_auto = `sudo zapnu11secur1ty -quickurl $URL_ -quickou
               my $sudo = `sudo su -`;
                 my $move = `mv /root/zap.html /home/`;
                 my $kura_izliza = `exit`;
+                  system($kura_izliza);
                   my $chr0m_ = `google-chrome /home/zap.xml`;
                   my $chr0m_2 = `google-chrome zap.html`;
         exit 0;
