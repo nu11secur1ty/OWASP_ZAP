@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 # @nu11secur1ty
 # Working...
+sudo mkdir -p /home/zapcontainer/
 sudo rm -rf *gadmrusna.pl*
 # sudo rm -rf /home/*.html*
   sleep 3;
