@@ -12,10 +12,7 @@ my $zapnu11secur1ty_killer_auto = `sudo zapnu11secur1ty -quickurl $URL_ -quickou
 # Working...
 #  sleep 3;
 #  my $killer_tuaka_prosti = `kill $(pgrep -f zapnu11secur1ty)`;
-              my $sudo = `sudo su -`;
-                my $move = `mv /root/zap.html /home/`;
-                my $kura_izliza = `exit`;
-                  system($kura_izliza);
+                my $move = `sudo mv /root/zap.html /home/`;
                   my $chr0m_ = `google-chrome /home/zap.xml`;
                   my $chr0m_2 = `google-chrome zap.html`;
         exit 0;
