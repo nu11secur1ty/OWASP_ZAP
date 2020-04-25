@@ -1,6 +1,8 @@
 #!/usr/bin/bash
 # @nu11secur1ty
+# Working...
 sudo rm -rf *gadmrusna.pl*
+# sudo rm -rf /root/*.html*
   sleep 3;
 cd 
 sudo wget https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/onlineAGI/gadmrusna.pl
