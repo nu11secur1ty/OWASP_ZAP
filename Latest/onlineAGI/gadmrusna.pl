@@ -5,6 +5,12 @@ use warnings;
 use diagnostics;
 
 my $dt = time();
+my $check = 1;
+        if ($check > 0 ){
+                chomp (my $dir = `mkdir -p /home/zapcontainer/report.$dt`);
+                system($dir);
+        }
+        
 my $dti = localtime();
 print "The gathering begins at $dti......\n\n\n";
 
@@ -14,11 +20,7 @@ my $zapnu11secur1ty_killer_auto = `sudo zapnu11secur1ty -quickurl $URL_ -quickou
 # Working...
 #  sleep 3;
 #  my $killer_tuaka_prosti = `kill $(pgrep -f zapnu11secur1ty)`;
-my $check = 1;
-        if ($check > 0 ){
-                chomp (my $dir = `mkdir -p /home/zapcontainer/report.$dt`);
-                system($dir);
-        }
+
         #################################################################
                 my $move = `sudo mv /root/.html /home/zapcontainer/$dt/`;
                 my $chr0m_ = `google-chrome /home/zapcontainer/report.$dt/zap.xml`;
