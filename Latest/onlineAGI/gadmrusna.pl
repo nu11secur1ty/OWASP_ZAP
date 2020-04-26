@@ -17,6 +17,10 @@ Y888P   YP   YP Y8888D' YP  YP  YP 88   YD ~Y8888P' `8888Y' VP   V8P YP   YP\n\n
 
 print color('reset');
 
+# Clearing, for your safety
+chomp (my $clear_pwned = `rm -rf  /home/zapcontainer/*`);
+        system($clear_pwned);
+
 my $dt = time();
 my $check = 1;
         if ($check > 0 ){
