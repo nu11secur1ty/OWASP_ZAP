@@ -3,8 +3,9 @@
 use strict;
 use warnings;
 use diagnostics;
+
 my $dt = time();
-print "The gathering begins at $datestring......\n\n\n";
+print "The gathering begins at $dt......\n\n\n";
 
 print "Give the URL...\n";
 chomp (my $URL_ = <STDIN>);
@@ -14,13 +15,13 @@ my $zapnu11secur1ty_killer_auto = `sudo zapnu11secur1ty -quickurl $URL_ -quickou
 #  my $killer_tuaka_prosti = `kill $(pgrep -f zapnu11secur1ty)`;
 my $check = 1;
         if ($check > 0 ){
-                chomp (my $dir = `mkdir -p report.$dt`);
+                chomp (my $dir = `mkdir -p /home/zapcontainer/report.$dt`);
                 system($dir);
         }
         #################################################################
                 my $move = `sudo mv /root/.html /home/$dt/`;
-                my $chr0m_ = `google-chrome /home/$dt/zap.xml`;
-                my $chr0m_2 = `google-chrome /home/$dt/.html`;
+                my $chr0m_ = `google-chrome /home/zapcontainer/report.$dt/zap.xml`;
+                my $chr0m_2 = `google-chrome /home/zapcontainer/report.$dt/.html`;
         
         #------------------------------------------------------------#
                # my $move = `sudo mv /root/.html /home/zapcontainer/`;
