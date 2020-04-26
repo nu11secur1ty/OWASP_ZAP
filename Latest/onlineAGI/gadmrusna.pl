@@ -7,7 +7,7 @@ use diagnostics;
 my $dt = time();
 my $check = 1;
         if ($check > 0 ){
-                chomp (my $dir = `mkdir -p /home/zapcontainer/report.$dt`);
+                chomp (my $dir = `sudo mkdir -p /home/zapcontainer/report.$dt`);
                 system($dir);
         }
         
