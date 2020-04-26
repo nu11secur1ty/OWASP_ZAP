@@ -22,15 +22,15 @@ chomp (my $clear_pwned = `sudo rm -rf  /home/zapcontainer/*report.*`);
         system($clear_pwned);
 
 my $dt = time();
-my $check = 1;
-        if ($check > 0 ){
-                chomp (my $dir = `sudo mkdir -p /home/zapcontainer/report.$dt`);
-                system($dir);
-        }
+my $dti = localtime();
 
-        my $dti = localtime();
+#my $check = 1;
+#        if ($check > 0 ){
+#                chomp (my $dir = `sudo mkdir -p /home/zapcontainer/report.$dt`);
+#                system($dir);
+#        }
 
-        print "The gathering begins at $dti......\n\n\n";
+               print "The gathering begins at $dti......\n\n\n";
 
 print "Give the URL...\n";
 chomp (my $URL_ = <STDIN>);
