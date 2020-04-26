@@ -4,6 +4,13 @@
 
 ![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/GadR.png)
 
+
+
+- - - Installing:
+```
+curl -s curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2020.2/installer2020.sh | bash
+```
+- - - - - - - Installing  gadmrusna
 - - - - - - - OnlineAGI downloader:
 
 [OWASP-AGI Automation for Gathering Information-Kali Linux 2020.2]
