@@ -5,7 +5,8 @@ use warnings;
 use diagnostics;
 
 my $dt = time();
-print "The gathering begins at $dt......\n\n\n";
+my $dti = localtime();
+print "The gathering begins at $dti......\n\n\n";
 
 print "Give the URL...\n";
 chomp (my $URL_ = <STDIN>);
