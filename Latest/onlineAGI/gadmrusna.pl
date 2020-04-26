@@ -20,7 +20,7 @@ my $check = 1;
                 system($dir);
         }
         #################################################################
-                my $move = `sudo mv /root/.html /home/$dt/`;
+                my $move = `sudo mv /root/.html /home/zapcontainer/$dt/`;
                 my $chr0m_ = `google-chrome /home/zapcontainer/report.$dt/zap.xml`;
                 my $chr0m_2 = `google-chrome /home/zapcontainer/report.$dt/.html`;
         
