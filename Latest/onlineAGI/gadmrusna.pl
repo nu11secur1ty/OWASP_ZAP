@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 use diagnostics;
-my $datestring = localtime();
+my $dt = time();
 print "The gathering begins at $datestring......\n\n\n";
 
 print "Give the URL...\n";
