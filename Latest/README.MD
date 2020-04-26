@@ -5,7 +5,7 @@
 ![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/gadmrusnar1.gif)
 
 
-![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/gadmrusnar.gif)
+![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/gadmrusnar1.gif)
 
 - - - Installing: OWASP_ZAP 
 
