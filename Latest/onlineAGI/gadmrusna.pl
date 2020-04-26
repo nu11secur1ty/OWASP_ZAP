@@ -8,7 +8,7 @@ use Term::ANSIColor;
 print color('green');
 print "
 
-d888b   .d8b.  d8888b. .88b  d88. d8888b. db    db .d8888. d8b   db  .d8b. 
+d888b    .d8b.  d8888b. .88b  d88. d8888b. db    db .d8888. d8b   db  .d8b. 
 88' Y8b d8' `8b 88  `8D 88'YbdP`88 88  `8D 88    88 88'  YP 888o  88 d8' `8b
 88      88ooo88 88   88 88  88  88 88oobY' 88    88 `8bo.   88V8o 88 88ooo88
 88  ooo 88~~~88 88   88 88  88  88 88`8b   88    88   `Y8b. 88 V8o88 88~~~88
