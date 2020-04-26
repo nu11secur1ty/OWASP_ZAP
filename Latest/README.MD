@@ -5,7 +5,7 @@
 ![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/GadR.png)
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/Screencast-04-26-2020-095546-PM.gif)">
+  <img width="460" height="300" src="https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/Screencast-04-26-2020-095546-PM.gif">
 </p>
 
 
