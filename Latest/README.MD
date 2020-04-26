@@ -4,8 +4,7 @@
 
 ![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/GadR.png)
 
-
-![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/Screencast-04-26-2020-095546-PM.gif)
+![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/gadmrusna.gif)
 
 
 
