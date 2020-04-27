@@ -17,14 +17,14 @@ Y888P   YP   YP Y8888D' YP  YP  YP 88   YD ~Y8888P' `8888Y' VP   V8P YP   YP\n\n
 
 print color('reset');
 
-# Clearing, for your safety
+# Clearing, for your safety putk1m@1n1
 chomp (my $clear_pwned = `sudo rm -rf  /home/zapcontainer/*report.*`);
         system($clear_pwned);
 
 my $dt = time();
 my $dti = localtime();
 
-# Working...
+# Working...n# b@r@ k@t t1 n#@ 1@sn0
 #my $check = 1;
 #        if ($check > 0 ){
 #                chomp (my $dir = `sudo mkdir -p /home/zapcontainer/report.$dt`);
@@ -38,7 +38,7 @@ chomp (my $URL_ = <STDIN>);
 chomp (my $dir = `sudo mkdir -p /home/zapcontainer/report.$dt$URL_`);
 my $zapnu11secur1ty_killer_auto = `sudo zapnu11secur1ty -quickurl $URL_ -quickout /home/zapcontainer/report.$dt$URL_/zap.xml`;
 
-# Working...
+# Working...n# b@r@ k@t t1 n#@ 1@sn0
 #  sleep 3;
 #  my $killer_tuaka_prosti = `kill $(pgrep -f zapnu11secur1ty)`;
 
@@ -47,7 +47,7 @@ my $zapnu11secur1ty_killer_auto = `sudo zapnu11secur1ty -quickurl $URL_ -quickou
                 my $chr0m_ = `google-chrome /home/zapcontainer/report.$dt$URL_/zap.xml`;
                 my $chr0m_2 = `google-chrome /home/zapcontainer/report.$dt$URL_/.html`;
         
-        # Working...
+        # Working...n# b@r@ k@t t1 n#@ 1@sn0
         #------------------------------------------------------------#
                # my $move = `sudo mv /root/.html /home/zapcontainer/`;
                #  my $chr0m_ = `google-chrome /home/zapcontainer/zap.xml`;
