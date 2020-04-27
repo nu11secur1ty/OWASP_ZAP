@@ -35,7 +35,7 @@ print "The gathering begins at $dti......\n\n\n";
 
 print "Give the URL...\n";
 chomp (my $URL_ = <STDIN>);
-chomp (my $dir = `sudo mkdir -p /home/zapcontainer/report.$dt$URL_`);
+        chomp (my $dir = `sudo mkdir -p /home/zapcontainer/report.$dt$URL_`);
 my $zapnu11secur1ty_killer_auto = `sudo zapnu11secur1ty -quickurl $URL_ -quickout /home/zapcontainer/report.$dt$URL_/zap.xml`;
 
 # Working...n# b@r@ k@t t1 n#@ 1@sn0
