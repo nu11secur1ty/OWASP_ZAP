@@ -6,6 +6,12 @@
 
 - - - Installing: OWASP_ZAP Latest
 
+ - - - Dependency:
+ ***WARNING:*** Need to be a `root`
+```bash
+curl -s https://raw.githubusercontent.com/nu11secur1ty/Kali-Linux/master/JAVA-INSTALLER-SILENT-MOD/javas1lent.sh | bash
+```
+- - - Installing OWASP
 ```
 curl -s curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2020.2/installer2020.sh | bash
 ```
