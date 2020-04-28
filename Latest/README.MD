@@ -13,7 +13,7 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/Kali-Linux/master/JAVA-IN
 ```
 - - - Installing OWASP_Latest
 ```
-curl -s curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2020.2/installer2020.sh | bash
+curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2020.2/installer2020.sh | bash
 ```
 - - - - - - - Installing  gadmrusna OnlineAGI downloader: 
 
