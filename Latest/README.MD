@@ -8,6 +8,7 @@
 
  - - - Dependency:
  ***WARNING:*** Need to be a `root`:
+ - Java platform:
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Kali-Linux/master/JAVA-INSTALLER-SILENT-MOD/javas1lent.sh | bash
 ```
@@ -16,7 +17,7 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/Kali-Linux/master/JAVA-IN
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2020.2/installer2020.sh | bash
 ```
 - - - - - Testing of zapnu11secur1ty installation:
-- - - Switch to normal user:
+- - - Switch to a normal user:
 ```bash
 zapnu11secur1ty
 ```
