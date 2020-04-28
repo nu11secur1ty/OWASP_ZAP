@@ -43,3 +43,4 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/o
 ![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/1.png)
 
 - output xml
+![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/2.png)
