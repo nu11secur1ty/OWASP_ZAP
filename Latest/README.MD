@@ -16,6 +16,7 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/Kali-Linux/master/JAVA-IN
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2020.2/installer2020.sh | bash
 ```
 - - - - - Testing of zapnu11secur1ty installation:
+- - - Switch to normal user:
 ```bash
 zapnu11secur1ty
 ```
@@ -24,7 +25,7 @@ zapnu11secur1ty
 
 [OWASP-AGI Automation for Gathering Information-Kali Linux 2020.2]
 
-- - - Switch to normal user:
+
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/onlineAGI/gadmrusna_download.sh | bash
 ```
