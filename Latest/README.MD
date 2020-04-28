@@ -4,7 +4,7 @@
 
 ![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/gadmrusnar1.gif)
 
-- - - Installing: OWASP_ZAP Latest
+# Installing: OWASP_ZAP Latest
 
  - - - Dependency:
  ***WARNING:*** Need to be a `root`:
