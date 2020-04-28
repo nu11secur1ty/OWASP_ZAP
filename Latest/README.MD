@@ -7,7 +7,7 @@
 # Installing: OWASP_ZAP Latest
 
  - - - Dependency:
- ***WARNING:*** Need to be a `root`:
+ ***WARNING:*** Need to be `root`:
  - Java platform:
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Kali-Linux/master/JAVA-INSTALLER-SILENT-MOD/javas1lent.sh | bash
