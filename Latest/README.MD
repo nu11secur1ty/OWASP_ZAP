@@ -12,6 +12,14 @@
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Kali-Linux/master/JAVA-INSTALLER-SILENT-MOD/javas1lent.sh | bash
 ```
+- google-chrome browser
+```bash
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+# install
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+```
+
+
 - Installing OWASP_Latest
 ```
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2020.2/installer2020.sh | bash
