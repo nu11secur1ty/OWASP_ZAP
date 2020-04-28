@@ -12,17 +12,17 @@
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Kali-Linux/master/JAVA-INSTALLER-SILENT-MOD/javas1lent.sh | bash
 ```
-- - - Installing OWASP_Latest
+- Installing OWASP_Latest
 ```
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2020.2/installer2020.sh | bash
 ```
-- - - - - Testing of zapnu11secur1ty installation:
-- - - Switch to a normal user:
+***Testing of zapnu11secur1ty installation:***
+- Switch to a normal user:
 ```bash
 zapnu11secur1ty
 ```
 
-- - - - - - - Installing  gadmrusna OnlineAGI downloader: 
+# Installing  gadmrusna OnlineAGI downloader: 
 
 [OWASP-AGI Automation for Gathering Information-Kali Linux 2020.2]
 
