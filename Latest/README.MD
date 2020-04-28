@@ -38,6 +38,11 @@ zapnu11secur1ty
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/onlineAGI/gadmrusna_download.sh | bash
 ```
+- Running gadmrusna
+```bash
+perl gadmrusna.pl
+```
+`Follow the instructions!`
 
 - output html:
 ![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/1.png)
