@@ -6,6 +6,12 @@
 
 - - - ***NOTE*** If you already installed the current version, please check which version you use and uninstall your old one!
 # Uninstalling your old version
+
+- - - Check for the last version online
+```bash 
+curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Check_Version/owaspver.py | python3
+```
+- - - If you use the old one please proceed forward
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/uninstaller/uninstaller.sh | bash
 ```
