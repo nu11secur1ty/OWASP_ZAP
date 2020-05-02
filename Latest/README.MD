@@ -29,10 +29,12 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/u
 
  - - - Dependency:
  ***WARNING:*** Need to be `root`:
- - Java platform:
+ - Java platform: `if you already have installed JAVA proceed forward`
+ 
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Kali-Linux/master/JAVA-INSTALLER-SILENT-MOD/javas1lent.sh | bash
 ```
+----------------------------------------------------------------------------------------------------------
 - - - Installing google-chrome:
 - google-chrome browser `if you already have installed google-chrome proceed forward`
 
