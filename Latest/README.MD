@@ -16,8 +16,10 @@
 ```bash 
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Check_Version/owaspver.py | python3
 ```
-- - - If you use the old one please proceed forward to uninstall your old one
+- - - If you use the old one please proceed forward to uninstall your old one 
+
 ***NOTE*** login as root
+
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/uninstaller/uninstaller.sh | bash
 ```
