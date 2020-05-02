@@ -1,5 +1,10 @@
 # latest
 
+# WARNING: 
+- - - Tests must be performed on powerful machines!
+
+------------------------------------------------------------------------------------------------------------------------
+
 [![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/wall/owasp_logo_milan.png)](https://www.youtube.com/watch?v=U6CrsooLpAg)
 
 [![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/gadmrusnar1.gif)](https://www.youtube.com/watch?v=HNjs5yuZ7Xg)
