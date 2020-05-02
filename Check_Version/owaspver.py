@@ -24,5 +24,5 @@ for i in content.findAll('a'):
 print(article)
 
 # Saving the scraped text
-with open('scraped_text.txt', 'w') as file:
+with open('owasp_check_version.txt', 'w') as file:
     file.write(article)
