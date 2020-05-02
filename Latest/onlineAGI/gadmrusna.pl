@@ -18,7 +18,8 @@ Y888P   YP   YP Y8888D' YP  YP  YP 88   YD ~Y8888P' `8888Y' VP   V8P YP   YP\n\n
 print color('reset');
 print color('red');
         print "The latest version is...\n";
-my $version = `curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Check_Version/owaspver.py | python3`;
+                my $version = `curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Check_Version/owaspver.py | python3`;
+        print "$version\n";
         print color('reset');
 
 # Clearing, for your safety putk1m@1n1
