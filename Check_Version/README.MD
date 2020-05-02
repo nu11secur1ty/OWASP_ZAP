@@ -1,4 +1,4 @@
 install checker
 ```bash
-pip install -r krutiqku
+pip install -r krutiqaku.txt
 ```
