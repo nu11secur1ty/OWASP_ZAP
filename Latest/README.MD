@@ -19,8 +19,7 @@
 ```bash 
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Check_Version/owaspver.py | python3
 ```
-. Your result is printing in terminal and will be save it in your current directory from where you excetute
-this command!
+- Your result will be printed in the terminal and will save it in your current directory from where you execute this command!
 
 - - - If you use the old one please proceed forward to uninstall your old one 
 
