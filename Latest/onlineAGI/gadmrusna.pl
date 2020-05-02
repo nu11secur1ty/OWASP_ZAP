@@ -19,8 +19,7 @@ print color('reset');
 print color('red');
         print "The latest version is...\n";
 my $version = `curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Check_Version/owaspver.py | python3`;
-        system($version);
-print color('reset');
+        print color('reset');
 
 # Clearing, for your safety putk1m@1n1
 chomp (my $clear_pwned = `sudo rm -rf  /home/zapcontainer/*report.*`);
