@@ -5,7 +5,7 @@
 [![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/gadmrusnar1.gif)](https://www.youtube.com/watch?v=HNjs5yuZ7Xg)
 
 - - - ***NOTE*** If you already installed the current version, please check which version you use and uninstall your old one!
-- Uninstalling your old version
+# Uninstalling your old version
 ```bash
 curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/uninstaller/uninstaller.sh | bash
 ```
