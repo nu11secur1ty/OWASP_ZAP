@@ -1,4 +1,4 @@
-# latest
+# latest f0r Kali Linux 2020.x
 
 # WARNING: 
 - - - Tests must be performed on powerful machines!
