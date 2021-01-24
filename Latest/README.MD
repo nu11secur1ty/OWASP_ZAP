@@ -80,3 +80,6 @@ perl gadmrusna.pl
 
 - output xml
 ![](https://github.com/nu11secur1ty/OWASP_ZAP/blob/master/Latest/screen/2.png)
+
+- OWASP Top Ten
+[OWASP Top Ten](https://owasp.org/www-project-top-ten/)
