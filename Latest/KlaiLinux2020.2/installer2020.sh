@@ -10,5 +10,5 @@ rm -rf /usr/bin/zapnu11secur1ty
   wget https://github.com/zaproxy/zaproxy/releases/download/v2.10.0/ZAP_2.10.0_Core.zip
   unzip ZAP_2.10.0_Core.zip
       cd /root/
-    ln -s /opt/ZAP_D-2020-09-08/zap.sh /usr/bin/zapnu11secur1ty
+    ln -s /opt/ZAP_2.10.0/zap.sh /usr/bin/zapnu11secur1ty
 exit 0;
