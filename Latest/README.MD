@@ -26,7 +26,7 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Check_Ve
 ***NOTE*** login as root
 
 ```bash
-curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/uninstaller/uninstaller.sh | bash
+curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KaliLinux-2021/uninstaller/uninstaller.sh | bash
 ```
 -----------------------------------------------------------------------------------------------------------
 
