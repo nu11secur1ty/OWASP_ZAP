@@ -52,7 +52,7 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 ------------------------------------------------------------------------------------------------------------
 - Installing OWASP_Latest
 ```
-curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2021/installer.sh | bash
+curl -s curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KaliLinux-2021/installer.sh | bash
 ```
 ***Testing of zapnu11secur1ty installation:***
 - Switch to a normal user:
