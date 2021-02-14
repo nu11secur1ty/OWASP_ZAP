@@ -1,4 +1,4 @@
-# OWASP_ZAP-Kali Linux 2020.2
+# OWASP_ZAP-Kali Linux 2021.x
 ```
 https://www.zaproxy.org/download/
 https://github.com/zaproxy/zaproxy/releases/
