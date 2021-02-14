@@ -3,6 +3,10 @@
 use strict;
 use warnings;
 use diagnostics;
+use File::HomeDir qw(home);
+use File::Spec::Functions qw(catfile);
+
+print "The path is ", catfile( home()) "\n";
 
 print "Give the url, for example: http://domain.com/ or https://domain.com\n";
 chomp (my $URL_target = <STDIN>);
