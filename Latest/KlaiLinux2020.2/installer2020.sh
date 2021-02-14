@@ -4,7 +4,7 @@
 
 cd /opt/
 rm -rf /opt/*ZAP_*
-rm -rf /usr/bin/zapnu11secur1ty
+rm -rf /usr/bin/*zap*
   sleep 3;
 # cd /opt/
   wget https://github.com/zaproxy/zaproxy/releases/download/w2021-02-08/ZAP_WEEKLY_D-2021-02-08.zip
