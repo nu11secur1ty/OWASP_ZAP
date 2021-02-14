@@ -15,5 +15,5 @@ curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/K
 
 # uninstaller
 ```bash
-curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KlaiLinux2021/uninstaller/uninstaller.sh | bash
+curl -s https://raw.githubusercontent.com/nu11secur1ty/OWASP_ZAP/master/Latest/KaliLinux-2021/uninstaller/uninstaller.sh | bash
 ```
